@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+id: introduction
+title: Introduction
+sidebar_label: Introduction
 ---
 
 
@@ -7,24 +10,21 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Quick Start @moon/wagmi-connector
+# Introduction
 
-Popup-SDK is a javascript SDK for web-based applications. The basic UX will be just like MetaMask as there will be a popup window for users to inspect transactions and take actions.
+Welcome to the documentation for the `@moonup/wagmi-connector` library. This library provides a custom connector for the Wagmi library, which allows you to interact with the Wagmi API using the Moon provider.
 
-<Tabs>
-<TabItem value="npm">
+## Installation
 
-```bash
-npm install --save @moon/wagmi-connector wagmi
-```
-
-</TabItem>
-<TabItem value="yarn">
+To install the `@moonup/wagmi-connector` library, you can use npm or yarn:
 
 ```bash
-yarn add @moon/wagmi-connector wagmi
+npm install @moonup/wagmi-connector
 ```
 
-</TabItem>
-</Tabs>
+or
+
+```bash
+yarn add @moonup/wagmi-connector
+```
 
