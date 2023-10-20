@@ -45,5 +45,3 @@ console.log(response);
 
 The `sendTransaction` method takes a `Transaction` object as its argument and returns a `TransactionResponse` object, which contains information about the transaction, including its hash and status.
 
-
-For more information about the methods provided by the `MoonApi` class, please refer to the [API Reference](./api-reference.md).

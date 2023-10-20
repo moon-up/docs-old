@@ -35,5 +35,3 @@ const account: MoonTypes.AccountResponse = {
 ```
 
 This imports all of the types from the `@moonup/types` library and assigns them to the `MoonTypes` namespace.
-
-For more information about the types provided by the `@moonup/types` library, please refer to the [API Reference](./api-reference.md).
