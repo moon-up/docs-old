@@ -25,6 +25,7 @@ npm install @moonup/moon-rainbowkit
 </TabItem>
 
 <TabItem value="yarn">
+
 ```bash
 yarn add @moonup/moon-rainbowkit
 ```

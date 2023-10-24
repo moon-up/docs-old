@@ -15,7 +15,6 @@ For example, to install the Moon API client, run:
 npm install @moonup/moon-api
 ```
 Refer to the documentation for each package for usage instructions.
-(https://docs.usemoon.ai)[https://docs.usemoon.ai]
 
 
 ## @moonup/types: 
@@ -25,7 +24,6 @@ Install the package
 ```bash
 npm install @moonup/types
 ```
-Import the types
 ```typescript
 import { Moon } from '@moonup/types'
 ```
@@ -36,7 +34,6 @@ Install the package
 ```bash
 npm install @moonup/moon-sdk
 ```
-import the sdk
 ```typescript
 import { MoonSDK } from '@moonup/moon-sdk'
 ```
@@ -50,7 +47,6 @@ Install the package
 npm install @moonup/moon-api
 ```
 
-import the client
 ```typescript
 import { MoonAPI } from '@moonup/moon-api'
 ```
