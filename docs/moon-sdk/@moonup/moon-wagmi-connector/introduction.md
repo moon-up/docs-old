@@ -18,13 +18,18 @@ Welcome to the documentation for the `@moonup/wagmi-connector` library. This lib
 
 To install the `@moonup/wagmi-connector` library, you can use npm or yarn:
 
+
+<Tabs>
+<TabItem value="npm">
 ```bash
 npm install @moonup/wagmi-connector
 ```
+</TabItem>
 
-or
-
+<TabItem value="yarn">
 ```bash
 yarn add @moonup/wagmi-connector
 ```
 
+</TabItem>
+</Tabs>

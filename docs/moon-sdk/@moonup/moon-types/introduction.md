@@ -1,7 +1,12 @@
 ---
 sidebar_position: 1
+id: introduction
+title: Introduction
+sidebar_label: Introduction
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Introduction
 
@@ -11,12 +16,18 @@ Welcome to the documentation for the `@moonup/types` library. This library provi
 
 To install the `@moonup/types` library, you can use npm or yarn:
 
+
+<Tabs>
+<TabItem value="npm">
+
 ```bash
 npm install @moonup/types
 ```
+</TabItem>
 
-or
-
+<TabItem value="yarn">
 ```bash
 yarn add @moonup/types
 ```
+</TabItem>
+</Tabs>
